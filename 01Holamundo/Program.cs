@@ -1,5 +1,5 @@
 ﻿/*
-Nombre: Alba Rosa Arias
+Nombre: Alva Rosa Arias
 Fecha: 24/08/2026
 Descripción: Programa que muestra una tarjeta de presentación
 con mis datos personales dentro de un marco de caracteres.
