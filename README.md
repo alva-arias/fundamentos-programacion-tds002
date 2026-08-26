@@ -11,7 +11,7 @@ Ejercicios de Fundamentos de Programación en C# · ITLA
 | # | Tema | Estado |
 |---|------|--------|
 | 01 | Hola Mundo | ✔ |
-| 02 | Variables y operadores | Pendiente |
+| 02 | Variables y operadores | ✔ |
 | 03 | Programas secuenciales | Pendiente |
 | 04 | Cálculos y formato | Pendiente |
 | 05 | Repaso · Primer parcial | Pendiente |
